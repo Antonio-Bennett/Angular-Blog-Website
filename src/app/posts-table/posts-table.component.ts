@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { PostService } from '../post.service';
-import { BlogPost } from '../BlogPost';
+import { BlogPost } from 'src/app/blogPost';
 
 @Component({
   selector: 'app-posts-table',

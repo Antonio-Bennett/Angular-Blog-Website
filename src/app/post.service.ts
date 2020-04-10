@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
-import { BlogPost } from './BlogPost';
+import { BlogPost } from 'src/app/blogPost';
 import { HttpClient } from '@angular/common/http';
 
 const perPage = 6;

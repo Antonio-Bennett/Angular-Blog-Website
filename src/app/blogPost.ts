@@ -1,4 +1,4 @@
-import { Comment } from './Comment';
+import { Comment } from 'src/app/comment';
 
 export class BlogPost {
  _id: string;
